@@ -1,0 +1,8 @@
+logLevel = "DEBUG"
+defaultEntryPoints = ["http"]
+[entryPoints]
+    [entryPoints.http]
+    address = ":80"
+[file]
+filename = "./rules.toml"
+watch = true
