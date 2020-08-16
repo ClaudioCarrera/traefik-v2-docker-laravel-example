@@ -24,9 +24,6 @@ RUN apt-get update && apt-get upgrade -y \
     libxslt1-dev \
     libzip-dev \
     memcached \
-    bcmath \
-    bz2 \
-    calendar \
     exif \
     wget \
     unzip \
