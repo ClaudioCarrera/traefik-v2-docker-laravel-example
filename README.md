@@ -6,7 +6,7 @@ dependences:
     - docker
     - laravel
 
-testing with laravel 7.6.0 
+testing with laravel 8.18.1 (php 8) 
 
 Settings:
 
